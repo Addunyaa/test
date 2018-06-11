@@ -1,2 +1,2 @@
 # test
-test ropo fo got command demonstration 
+test repo fo got command demonstration 
