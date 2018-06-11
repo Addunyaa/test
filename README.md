@@ -1,2 +1,2 @@
 # test
-test repo fo got command demonstration 
+test repo fo git command demonstration 
